@@ -8,23 +8,15 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Chapter front",
   tagline: "Chapter front loomi",
-  url: "https://your-docusaurus-test-site.com",
+  url: "https://edimariojr.github.io",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
-
-  // Even if you don't use internalization, you can use this field to set useful
-  // metadata like html lang. For example, if your site is Chinese, you may want
-  // to replace "en" with "zh-Hans".
-  i18n: {
-    defaultLocale: "en",
-    locales: ["en"],
-  },
+  organizationName: "edimariojr", // Usually your GitHub org/user name.
+  projectName: "chapter-front", // Usually your repo name.
 
   presets: [
     [
@@ -62,7 +54,7 @@ const config = {
       },
       footer: {
         style: "dark",
-        copyright: `Copyright © ${new Date().getFullYear()} Chapter Front - Loomi. Construído com <3.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Chapter Front - Loomi.`,
       },
       prism: {
         theme: lightCodeTheme,
