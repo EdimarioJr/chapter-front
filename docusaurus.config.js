@@ -8,14 +8,14 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Chapter front",
   tagline: "Chapter front loomi",
-  url: "https://edimariojr.github.io",
+  url: "https://EdimarioJr.github.io",
   baseUrl: "/chapter-front/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "edimariojr", // Usually your GitHub org/user name.
+  organizationName: "EdimarioJr", // Usually your GitHub org/user name.
   projectName: "chapter-front", // Usually your repo name.
 
   presets: [
