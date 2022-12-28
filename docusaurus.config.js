@@ -17,6 +17,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "EdimarioJr", // Usually your GitHub org/user name.
   projectName: "chapter-front", // Usually your repo name.
+  deploymentBranch: "gh-pages",
 
   presets: [
     [
