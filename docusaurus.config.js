@@ -9,7 +9,7 @@ const config = {
   title: "Chapter front",
   tagline: "Chapter front loomi",
   url: "https://edimariojr.github.io",
-  baseUrl: "/",
+  baseUrl: "/chapter-front/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
 
